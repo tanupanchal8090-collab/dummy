@@ -1,0 +1,6 @@
+{
+  "name": "Glow & Glam",
+  "description": "Premium cosmetic products formulated to help you achieve healthy, radiant, and glowing skin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
